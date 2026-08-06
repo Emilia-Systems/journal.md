@@ -35,6 +35,3 @@ A few conventions to keep it consistent:
 - Repo names should match the actual repo name exactly, so they're easy to search for (`Ctrl+F "cpu-rtl"` should find every day that repo was touched).
 - Keep each line to what was *done*, not general commentary, save deeper writeups (design notes, "why") for that repo's own README or docs.
 - Optionally, link a commit or PR at the end of a line, e.g. `**jny** — fixed A20 line enable ([commit_n](../jny/commit/n))`.
-## License
-
-[MIT](LICENSE) (or update to your preferred license).
