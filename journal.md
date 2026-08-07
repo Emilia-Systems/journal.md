@@ -1,6 +1,18 @@
+## 07/08/2026
+
+**linker.ld**: setup the linker with all the memory setup of the virtual machine
+
+**csr.h**: created the interface for interecting with CSR registers in C with a "good" ergonimics. first test of the new dependency manager tool
+
+**jny**: started and finish to write the bootloader, soon testing and setup for the dependency manager
+
+**Makefile**: created and started the repository to handle the Makefile
+
+**pff**: create a custom and simple dependency manager that interacts with github to pull the files needed from the other repos. first test passed fine, improvements on the way
+
 ## 06/08/2026
 
-**journal**: wrote all the work done until today, renamed the repository from journal to journal.md, rewritten the all file from the most recent to the least one
+**journal.md**: wrote all the work done until today, renamed the repository from journal to journal.md, rewritten the all file from the most recent to the least one
 
 **env.sh**: renamed env to env.sh
 
